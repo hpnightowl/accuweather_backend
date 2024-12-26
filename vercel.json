@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/config",
+      "methods": ["GET"],
+      "dest": "/api/config.js"
+    }
+  ]
+}
